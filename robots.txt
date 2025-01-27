@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://autogen.top/sitemap.xml 
